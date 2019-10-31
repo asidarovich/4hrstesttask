@@ -1,4 +1,3 @@
-==============================================
 Write Some Testcases for ShortPoint Website
 ==============================================
 Write an automated test cases that will perform the following 2 jobs:
@@ -33,7 +32,7 @@ How to submit
 --------------
 Please upload the code for this project to GitHub, and post a link to your repository below.
 
-==============================================
+
 Task solution
 ==============================================
 
